@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">S54GPayment</string>
+    <string name="scan_onbind">扫码绑定</string>
+    <string name="payment_code">付款码</string>
+    <string name="payment_code_note">收银员扫一扫完成付款</string>
+    <string name="settings">设置</string>
+    <string name="settings_note">手机支付宝首页搜索「智能设备」进入，点击「智能手表」管理支付设置</string>
+    <string name="unbind">解除绑定</string>
+    <string name="onbind_mywatch">绑定我的手表</string>
+    <string name="onbind_mywatch_note">打开手机支付宝(10.0.20及以上版本),进入首页「扫一扫」</string>
+    <string name="immediately_onbind">立即绑定</string>
+
+    <string name="are_you_sure_unbind">确定要解除绑定?</string>
+    <string name="are_you_sure_unbind_note">解绑后手表支付宝上的功能将不可用!</string>
+
+    <string name="setting_pwd">设置密码</string>
+    <string name="immediately_setting_pwd">立即设置</string>
+    <string name="setting_pwd_note">每次打开应用,需要用到。</string>
+    <string name="start_use">开始使用</string>
+    <string name="payment">支付宝</string>
+    <string name="payment_note">该应用需要用到密码才能进入</string>
+    <string name="input_pwd">输入密码</string>
+
+    <string name="agreement_protocol">同意协议</string>
+    <string name="agreement_watch_payment_protocol">同意手表支付协议</string>
+    <string name="agreement_watch_payment_protocol_note">详情请在手机支付宝,「智能手表」页面「手机支付协议」中查看</string>
+
+    <string name="retrieve_pwd">找回密码</string>
+    <string name="retrieve_pwd_note">请家长打开APP查看收到的验证码。</string>
+    <string name="input_verificatio_code">输入验证码</string>
+
+    <string name="setting_pwd_again">重新设置</string>
+    <string name="setting_pwd_again_note">使用密码的两次输入不一致,请重新设置。</string>
+
+
+</resources>
